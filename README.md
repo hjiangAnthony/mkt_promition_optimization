@@ -6,7 +6,7 @@ Team members:
 - Sam Zihao Ding
 
 
-## Project Statemetn
+## Project Statement
 Our (hypothetical) client is WrestleNetUSA (WNU) - a professional wrestling company who is attempting to acquire subscribers for their online streaming platform. The company was founded in 2010, and has routinely used targeted tiered promotional packages to incentivize individuals identified by analytical models to subscribe or purchase other company offerings.
 
 WNU has identified a list of potential subscribers who, according to internal models, are highly unlikely to organically subscribe to the streaming platform. In order to expand their customer base, WNU wants to run a new targeted promotion campaign for this list of customers. 
