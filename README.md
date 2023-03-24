@@ -1,4 +1,10 @@
 # mkt_promition_optimization
+Team members:
+- Lulu Xingchen Wang
+- Lydia Jiarui Cao
+- Han Jiang
+- Sam Zihao Ding
+
 
 ## Project Statemetn
 Our (hypothetical) client is WrestleNetUSA (WNU) - a professional wrestling company who is attempting to acquire subscribers for their online streaming platform. The company was founded in 2010, and has routinely used targeted tiered promotional packages to incentivize individuals identified by analytical models to subscribe or purchase other company offerings.
